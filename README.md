@@ -1,5 +1,6 @@
-## 💻 Tech Stack
-
+## LinkedIn
+[LinkedIn](https://www.linkedin.com/in/gowriha) 
+## Tech Stack
 ### Languages & Tools  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)  
@@ -30,7 +31,6 @@
 ![Microsoft SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)  
 ![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
 
-[LinkedIn](https://www.linkedin.com/in/gowriha) 
 ### Deployment & Tools  
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)  
